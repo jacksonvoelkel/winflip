@@ -1,0 +1,4 @@
+Name: Flip Backslashes
+Description: Flips Backslashes in Windows Paths
+Binding: winflip
+Interactive: false

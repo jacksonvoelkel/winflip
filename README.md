@@ -1,0 +1,3 @@
+# WinFlip Addin Utility
+
+[documentation]

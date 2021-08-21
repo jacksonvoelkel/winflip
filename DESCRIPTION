@@ -1,0 +1,14 @@
+Package: winflip
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jackson",
+           family = "Voelkel",
+           role = c("aut", "cre"),
+           email = "jackson.l.voelkel@kp.org"))
+Description: For use in addins - to flip Windows filepath backslashes
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
