@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Jackson",
            family = "Voelkel",
            role = c("aut", "cre"),
-           email = "jackson.l.voelkel@kp.org"))
+           email = "jackson.l.voelkel@kp.org")
 Description: For use in addins - to flip Windows filepath backslashes
 License: `use_mit_license()`
 Encoding: UTF-8
